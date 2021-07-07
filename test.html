@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Test iframe</title>
+    </head>
+    <body>
+        <iframe
+        id="the_iframe"
+        src="http://localhost:3000/"
+        sandbox="allow-same-origin allow-scripts"
+        frameborder="0"
+        height="600"
+        width="420"
+        ></iframe>
+
+        <script>
+            const iframeEl = document.getElementById('the_iframe');
+
+            const sendMessage = function(msg) {
+                // Make sure you are sending a string, and to stringify JSON
+                iframeEl.contentWindow.postMessage(msg, 'http://localhost:3000');
+            };
+
+            // Listen to message from child window
+            window.addEventListener('message', (e) => {
+                console.log('got message from child', e)
+                sendMessage('daddy says hi!')
+            }, false)   
+
+        </script>
+    </body>
+</html>

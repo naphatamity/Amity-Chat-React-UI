@@ -1,0 +1,422 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ChannelCreate /> spec renders the component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-jrQzUz jHgdLV"
+      >
+        <div
+          class="sc-bdvvaa fiTrLn"
+        >
+          <a
+            href="/channels"
+            style="text-decoration: none; color: rgb(23, 24, 28);"
+          >
+            Cancel
+          </a>
+          <div
+            class="sc-bkkfTU dzqiXj"
+          >
+            <h2
+              class="sc-ieebsP kWkvkc"
+            >
+              0 Selected
+            </h2>
+          </div>
+          <button
+            class="sc-hGPAah fFSkrZ"
+          >
+            Create
+          </button>
+        </div>
+        <div
+          class="sc-kDThTU jCuAAp"
+        >
+          <input
+            class="sc-pVTma htPafV"
+            placeholder="Group name"
+            style="margin-bottom: 16px;"
+          />
+          <input
+            class="sc-pVTma htPafV"
+            placeholder="Search"
+          />
+          <div
+            class="sc-egiSv gsIIzT"
+          >
+            <div
+              class="sc-iqsfdx hiUiZe"
+            >
+              <div
+                class="sc-crHlIS bYQTIM"
+              />
+            </div>
+          </div>
+          <div>
+            <div
+              class="sc-ksdxAp fHHPPY"
+            >
+              b
+            </div>
+            <ul
+              class="sc-hBURRC iiJnpa"
+            >
+              <li
+                class="sc-gsDJrp gZOWSV"
+              >
+                Loading
+              </li>
+            </ul>
+          </div>
+          <div>
+            <div
+              class="sc-ksdxAp fHHPPY"
+            >
+              f
+            </div>
+            <ul
+              class="sc-hBURRC iiJnpa"
+            >
+              <li
+                class="sc-gsDJrp gZOWSV"
+              >
+                Loading
+              </li>
+            </ul>
+          </div>
+          <div>
+            <div
+              class="sc-ksdxAp fHHPPY"
+            >
+              j
+            </div>
+            <ul
+              class="sc-hBURRC iiJnpa"
+            >
+              <li
+                class="sc-gsDJrp gZOWSV"
+              >
+                Loading
+              </li>
+            </ul>
+          </div>
+          <div>
+            <div
+              class="sc-ksdxAp fHHPPY"
+            >
+              l
+            </div>
+            <ul
+              class="sc-hBURRC iiJnpa"
+            >
+              <li
+                class="sc-gsDJrp gZOWSV"
+              >
+                Loading
+              </li>
+              <li
+                class="sc-gsDJrp gZOWSV"
+              >
+                Loading
+              </li>
+            </ul>
+          </div>
+          <div>
+            <div
+              class="sc-ksdxAp fHHPPY"
+            >
+              m
+            </div>
+            <ul
+              class="sc-hBURRC iiJnpa"
+            >
+              <li
+                class="sc-gsDJrp gZOWSV"
+              >
+                Loading
+              </li>
+              <li
+                class="sc-gsDJrp gZOWSV"
+              >
+                Loading
+              </li>
+              <li
+                class="sc-gsDJrp gZOWSV"
+              >
+                Loading
+              </li>
+            </ul>
+          </div>
+          <div>
+            <div
+              class="sc-ksdxAp fHHPPY"
+            >
+              n
+            </div>
+            <ul
+              class="sc-hBURRC iiJnpa"
+            >
+              <li
+                class="sc-gsDJrp gZOWSV"
+              >
+                Loading
+              </li>
+            </ul>
+          </div>
+          <div>
+            <div
+              class="sc-ksdxAp fHHPPY"
+            >
+              t
+            </div>
+            <ul
+              class="sc-hBURRC iiJnpa"
+            >
+              <li
+                class="sc-gsDJrp gZOWSV"
+              >
+                Loading
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-jrQzUz jHgdLV"
+    >
+      <div
+        class="sc-bdvvaa fiTrLn"
+      >
+        <a
+          href="/channels"
+          style="text-decoration: none; color: rgb(23, 24, 28);"
+        >
+          Cancel
+        </a>
+        <div
+          class="sc-bkkfTU dzqiXj"
+        >
+          <h2
+            class="sc-ieebsP kWkvkc"
+          >
+            0 Selected
+          </h2>
+        </div>
+        <button
+          class="sc-hGPAah fFSkrZ"
+        >
+          Create
+        </button>
+      </div>
+      <div
+        class="sc-kDThTU jCuAAp"
+      >
+        <input
+          class="sc-pVTma htPafV"
+          placeholder="Group name"
+          style="margin-bottom: 16px;"
+        />
+        <input
+          class="sc-pVTma htPafV"
+          placeholder="Search"
+        />
+        <div
+          class="sc-egiSv gsIIzT"
+        >
+          <div
+            class="sc-iqsfdx hiUiZe"
+          >
+            <div
+              class="sc-crHlIS bYQTIM"
+            />
+          </div>
+        </div>
+        <div>
+          <div
+            class="sc-ksdxAp fHHPPY"
+          >
+            b
+          </div>
+          <ul
+            class="sc-hBURRC iiJnpa"
+          >
+            <li
+              class="sc-gsDJrp gZOWSV"
+            >
+              Loading
+            </li>
+          </ul>
+        </div>
+        <div>
+          <div
+            class="sc-ksdxAp fHHPPY"
+          >
+            f
+          </div>
+          <ul
+            class="sc-hBURRC iiJnpa"
+          >
+            <li
+              class="sc-gsDJrp gZOWSV"
+            >
+              Loading
+            </li>
+          </ul>
+        </div>
+        <div>
+          <div
+            class="sc-ksdxAp fHHPPY"
+          >
+            j
+          </div>
+          <ul
+            class="sc-hBURRC iiJnpa"
+          >
+            <li
+              class="sc-gsDJrp gZOWSV"
+            >
+              Loading
+            </li>
+          </ul>
+        </div>
+        <div>
+          <div
+            class="sc-ksdxAp fHHPPY"
+          >
+            l
+          </div>
+          <ul
+            class="sc-hBURRC iiJnpa"
+          >
+            <li
+              class="sc-gsDJrp gZOWSV"
+            >
+              Loading
+            </li>
+            <li
+              class="sc-gsDJrp gZOWSV"
+            >
+              Loading
+            </li>
+          </ul>
+        </div>
+        <div>
+          <div
+            class="sc-ksdxAp fHHPPY"
+          >
+            m
+          </div>
+          <ul
+            class="sc-hBURRC iiJnpa"
+          >
+            <li
+              class="sc-gsDJrp gZOWSV"
+            >
+              Loading
+            </li>
+            <li
+              class="sc-gsDJrp gZOWSV"
+            >
+              Loading
+            </li>
+            <li
+              class="sc-gsDJrp gZOWSV"
+            >
+              Loading
+            </li>
+          </ul>
+        </div>
+        <div>
+          <div
+            class="sc-ksdxAp fHHPPY"
+          >
+            n
+          </div>
+          <ul
+            class="sc-hBURRC iiJnpa"
+          >
+            <li
+              class="sc-gsDJrp gZOWSV"
+            >
+              Loading
+            </li>
+          </ul>
+        </div>
+        <div>
+          <div
+            class="sc-ksdxAp fHHPPY"
+          >
+            t
+          </div>
+          <ul
+            class="sc-hBURRC iiJnpa"
+          >
+            <li
+              class="sc-gsDJrp gZOWSV"
+            >
+              Loading
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

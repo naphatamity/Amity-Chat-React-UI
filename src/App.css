@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+*, *::before, *::after {
+  box-sizing: revert;
+}

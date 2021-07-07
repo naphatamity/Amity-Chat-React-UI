@@ -1,0 +1,292 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Channel /> spec renders the component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-fKVsgm kgbEpX"
+      >
+        <div
+          class="sc-dJjZJu bdWXJA"
+        >
+          <a
+            href="/channels"
+          >
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-chevron-left fa-w-8 "
+              data-icon="chevron-left"
+              data-prefix="far"
+              focusable="false"
+              role="img"
+              style="margin-right: 8px;"
+              viewBox="0 0 256 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M231.293 473.899l19.799-19.799c4.686-4.686 4.686-12.284 0-16.971L70.393 256 251.092 74.87c4.686-4.686 4.686-12.284 0-16.971L231.293 38.1c-4.686-4.686-12.284-4.686-16.971 0L4.908 247.515c-4.686 4.686-4.686 12.284 0 16.971L214.322 473.9c4.687 4.686 12.285 4.686 16.971-.001z"
+                fill="currentColor"
+              />
+            </svg>
+          </a>
+          <div
+            class="sc-iJKOzS kNYKxc"
+          >
+            <div>
+              <div
+                class="sc-pVTma bZokeU"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="svg-inline--fa fa-user fa-w-14 "
+                  data-icon="user"
+                  data-prefix="fas"
+                  focusable="false"
+                  role="img"
+                  viewBox="0 0 448 512"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M224 256c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128zm89.6 32h-16.7c-22.2 10.2-46.9 16-72.9 16s-50.6-5.8-72.9-16h-16.7C60.2 288 0 348.2 0 422.4V464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-41.6c0-74.2-60.2-134.4-134.4-134.4z"
+                    fill="currentColor"
+                  />
+                </svg>
+              </div>
+            </div>
+            <h2
+              class="sc-giYgFv gMlmcQ"
+            />
+          </div>
+          <div
+            class="sc-llYToB ihFBtU"
+          >
+            <a
+              href="/channel/undefined/details"
+            >
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-ellipsis-h fa-w-16 "
+                data-icon="ellipsis-h"
+                data-prefix="far"
+                focusable="false"
+                role="img"
+                style="margin-right: 8px;"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M304 256c0 26.5-21.5 48-48 48s-48-21.5-48-48 21.5-48 48-48 48 21.5 48 48zm120-48c-26.5 0-48 21.5-48 48s21.5 48 48 48 48-21.5 48-48-21.5-48-48-48zm-336 0c-26.5 0-48 21.5-48 48s21.5 48 48 48 48-21.5 48-48-21.5-48-48-48z"
+                  fill="currentColor"
+                />
+              </svg>
+            </a>
+          </div>
+        </div>
+        <div
+          class="sc-bBHwJV kNZYaq"
+        >
+          <div
+            class="sc-iwjezw GDxiY"
+          >
+            <div
+              class="sc-cxpRKc hTgXmH"
+            >
+              <div
+                style="width: 100%; margin: auto; text-align: center;"
+              >
+                <div
+                  class="sc-kfPtPH cYigCS"
+                >
+                  <div />
+                  <div />
+                  <div />
+                  <div />
+                </div>
+              </div>
+              <div />
+            </div>
+          </div>
+          <div
+            class="sc-dlVyqM bzwNpf"
+          >
+            <input
+              class="sc-hGPAah wjnCy"
+              placeholder="Type something..."
+              type="text"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-fKVsgm kgbEpX"
+    >
+      <div
+        class="sc-dJjZJu bdWXJA"
+      >
+        <a
+          href="/channels"
+        >
+          <svg
+            aria-hidden="true"
+            class="svg-inline--fa fa-chevron-left fa-w-8 "
+            data-icon="chevron-left"
+            data-prefix="far"
+            focusable="false"
+            role="img"
+            style="margin-right: 8px;"
+            viewBox="0 0 256 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M231.293 473.899l19.799-19.799c4.686-4.686 4.686-12.284 0-16.971L70.393 256 251.092 74.87c4.686-4.686 4.686-12.284 0-16.971L231.293 38.1c-4.686-4.686-12.284-4.686-16.971 0L4.908 247.515c-4.686 4.686-4.686 12.284 0 16.971L214.322 473.9c4.687 4.686 12.285 4.686 16.971-.001z"
+              fill="currentColor"
+            />
+          </svg>
+        </a>
+        <div
+          class="sc-iJKOzS kNYKxc"
+        >
+          <div>
+            <div
+              class="sc-pVTma bZokeU"
+            >
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-user fa-w-14 "
+                data-icon="user"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 448 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M224 256c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128zm89.6 32h-16.7c-22.2 10.2-46.9 16-72.9 16s-50.6-5.8-72.9-16h-16.7C60.2 288 0 348.2 0 422.4V464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-41.6c0-74.2-60.2-134.4-134.4-134.4z"
+                  fill="currentColor"
+                />
+              </svg>
+            </div>
+          </div>
+          <h2
+            class="sc-giYgFv gMlmcQ"
+          />
+        </div>
+        <div
+          class="sc-llYToB ihFBtU"
+        >
+          <a
+            href="/channel/undefined/details"
+          >
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-ellipsis-h fa-w-16 "
+              data-icon="ellipsis-h"
+              data-prefix="far"
+              focusable="false"
+              role="img"
+              style="margin-right: 8px;"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M304 256c0 26.5-21.5 48-48 48s-48-21.5-48-48 21.5-48 48-48 48 21.5 48 48zm120-48c-26.5 0-48 21.5-48 48s21.5 48 48 48 48-21.5 48-48-21.5-48-48-48zm-336 0c-26.5 0-48 21.5-48 48s21.5 48 48 48 48-21.5 48-48-21.5-48-48-48z"
+                fill="currentColor"
+              />
+            </svg>
+          </a>
+        </div>
+      </div>
+      <div
+        class="sc-bBHwJV kNZYaq"
+      >
+        <div
+          class="sc-iwjezw GDxiY"
+        >
+          <div
+            class="sc-cxpRKc hTgXmH"
+          >
+            <div
+              style="width: 100%; margin: auto; text-align: center;"
+            >
+              <div
+                class="sc-kfPtPH cYigCS"
+              >
+                <div />
+                <div />
+                <div />
+                <div />
+              </div>
+            </div>
+            <div />
+          </div>
+        </div>
+        <div
+          class="sc-dlVyqM bzwNpf"
+        >
+          <input
+            class="sc-hGPAah wjnCy"
+            placeholder="Type something..."
+            type="text"
+          />
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
